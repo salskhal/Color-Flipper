@@ -1,4 +1,4 @@
-let colors = ["red", "pink", "orange", "brown", "purple", "lime"];
+let colors = ["red", "pink", "orange", "brown", "purple", "lime", "green", "#ffffff", "lightgray", "wheat"];
 
 let color = document.querySelector(".color");
 let btn = document.querySelector(".btn");
